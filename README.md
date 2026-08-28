@@ -24,7 +24,7 @@ The page supports anonymous submissions, scheduled reveals, weekly limits, likes
 
 ```text
 confessions.php
-confessions.sql
+schema.sql
 README.md
 ```
 
@@ -64,13 +64,13 @@ name
 
 Use the same database that contains your `students` table.
 
-### 2. Import `confessions.sql`
+### 2. Import `schema.sql`
 
 In phpMyAdmin:
 
 1. Select your database.
 2. Click **Import**.
-3. Select `confessions.sql`.
+3. Select `schema.sql`.
 4. Click **Go**.
 
 The SQL creates:
