@@ -6,7 +6,6 @@ The page supports anonymous submissions, scheduled reveals, weekly limits, likes
 
 ## ✨ Features
 
-
 - Student-login protection
 - Anonymous confession submission
 - Automatic submission schedule
