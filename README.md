@@ -4,7 +4,6 @@ A standalone anonymous **Confessions** page for CONNECT SRMAP, built with PHP, M
 
 The page supports anonymous submissions, scheduled reveals, weekly limits, likes, share links and filtering. The database is designed so an administrator can later create a separate admin page for schedule and moderation management.
 
-
 ## ✨ Features
 
 - Student-login protection
